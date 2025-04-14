@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phoenix1209
-- 👀 I’m interested in Desktop/Mobile Aplications and Desktop/Mobile Games.
+- 👀 I’m interested in Desktop Aplications.
 - 🌱 I’m currently learning Rust.
 
 <!---
